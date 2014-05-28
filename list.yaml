@@ -9,6 +9,7 @@
   price: "$40-50"
   begin_date: "Friday June 27 2014"
   begin_time: "9pm"
+  num_followers: "397,000"
   buy_link: "https://www.eventbrite.com/e/the-chainsmokers-tickets-11166337817"
 
 - event: "EDC"
@@ -18,4 +19,5 @@
   begin_date: "Friday June 20"
   end_date: "Sunday June 22"
   buy_link: "http://electricdaisycarnival.com/"
+  num_followers: "75,000"
   status: "Sold Out"
